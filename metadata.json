@@ -1,0 +1,6 @@
+{
+  "name": "Trip Ticket Generator",
+  "description": "Exact replica and editable invoice generator for Skypass Limo Trip Tickets with auto-calculations and PDF print export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
